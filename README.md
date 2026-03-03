@@ -2,7 +2,7 @@
 
 A full-stack, real-time multiplayer chess application built with Node.js and WebSockets. This project features global matchmaking, private rooms, server-side timer synchronization, and a custom-built AI engine for offline play.
 
-**[🎮 Play the Live Demo Here]([YOUR_RENDER_URL_HERE])**
+**[🎮 Play the Live Demo Here](https://chessgame321.onrender.com)**
 
 ## ✨ Key Features
 
